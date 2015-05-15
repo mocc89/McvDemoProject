@@ -1,2 +1,0 @@
-# McvDemoProject
-Hello World :)
